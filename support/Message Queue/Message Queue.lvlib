@@ -39,6 +39,7 @@
 		<Item Name="Enqueue Message (Array).vi" Type="VI" URL="../Enqueue Message (Array).vi"/>
 		<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
 		<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
+		<Item Name="Enqueue Message (MultiLine String w Array).vi" Type="VI" URL="../Enqueue Message (MultiLine String w Array).vi"/>
 	</Item>
 	<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
 	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
