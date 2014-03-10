@@ -43,12 +43,12 @@
 		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Test Enqueue Message VIs.vi" Type="VI" URL="../testing/Test Enqueue Message VIs.vi"/>
+			<Item Name="Test Base Main.vi" Type="VI" URL="../testing/Test Base Main.vi"/>
 		</Item>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Test Base Main.vi" Type="VI" URL="../testing/Test Base Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
